@@ -56,6 +56,21 @@ body {
   transition: calc(0.1s);
 }
 
+.socialLinks {
+  margin-top: 30px;
+  list-style: none;
+  width: 250px;
+  padding: 0;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+}
+.socialLinks img:hover {
+  transform: scale(1.1);
+  box-shadow: 0px 0px 5px 0.5px var(--gray);
+  transition: transform 0.3s;
+}
+
 .container-password {
   max-width: 480px;
   margin: 14px 0;
@@ -109,6 +124,7 @@ body {
   bottom: 50px;
   opacity: 1;
 }
+
 #toasts {
   position: fixed;
   bottom: 10px;
