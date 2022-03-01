@@ -9,17 +9,7 @@
 <h1 align="center">
     <img alt="readme" title="GeradorSenha" src="assets\gerador de senha.png" />
 </h1>
-
 <br>
-
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do Projeto:
-
-<img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" height="40" width="40"/> 
-  <img align = "center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" height="40" width="40"/>
-   <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" height="40" width="40"/>
-
----
+<h2>Veja meu Linkedin</h2> <br>
 
 <a href="https://www.linkedin.com/in/gabriel-almeida-9453b3197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
