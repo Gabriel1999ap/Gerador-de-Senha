@@ -22,4 +22,4 @@ As seguintes ferramentas foram usadas na construção do Projeto:
 
 ---
 
-[Veja meu Linkedin](https://www.linkedin.com/in/gabriel-almeida-9453b3197/)
+<a href="https://www.linkedin.com/in/gabriel-almeida-9453b3197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
